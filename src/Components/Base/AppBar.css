@@ -1,0 +1,12 @@
+.appbar{
+    background-color: purple;
+    color:yellow;  
+
+}
+
+.timebar{
+    color:black;
+    position:relative;
+    left:250px;
+    bottom: 50px;
+}
