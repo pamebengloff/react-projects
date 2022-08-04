@@ -1,10 +1,9 @@
 import './App.css';
 import AppBar from './Components/Base/AppBar';
-//import TimeBar from "./Components/Base/TimeBar"
 
 function App() {
 
-  //funcion para pasar como parametro a myAlert y myAlert como prop para el cmop
+  //funcion para pasar como parametro al prop myAlert de AppBar
   const alerta = () => {
     alert("esta es una alerta");
   };

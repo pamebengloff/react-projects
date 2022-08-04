@@ -10,3 +10,17 @@
     left:250px;
     bottom: 50px;
 }
+
+.titulo-app-bar{
+    color:violet   
+}
+.titulo-app-bar:hover{
+    color:greenyellow;   
+}
+#home{
+    color:aquamarine;
+}
+
+#link{
+color: blueviolet;
+}
