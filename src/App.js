@@ -16,7 +16,9 @@ function App() {
       subtitle="Ya funciona wuu"   
     //  tiempo= {<TimeBar />}  //pasamos el componente de TimeBar como prop de tiempo (que viene del componente AppBar)
       myAlert={alerta}
+      
     />
+    <h1>hola </h1>
     </div>
     
     
