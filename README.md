@@ -1,2 +1,2 @@
 # react-projects
-A repo for the apprentice program
+A repo for my-app, a project from the apprentice
